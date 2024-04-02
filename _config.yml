@@ -20,7 +20,7 @@ author: bj
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "the trials and tribulations (cleft);&emsp;&emsp;&emsp;&emsp;{author} &amp; i.nsert.co.in;&emsp;&emsp;&emsp;&emsp;2020-{currentYear}"
+copyright: "74 68 65 20 74 72 69 61 6c 73 20 61 6e 64 20 74 72 69 62 75 6c 61 74 69 6f 6e 73 20 c2 a9 3b e2 80 83 62 6a 20 26 20 69 2e 6e 73 65 72 74 2e 63 6f 2e 69 6e 3b e2 80 83 65 73 74 2e 20 32 30 32 34"
 
 description: >- # this means to ignore newlines until "baseurl:"
   my two cents
